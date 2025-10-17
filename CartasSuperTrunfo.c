@@ -7,8 +7,10 @@
 int main() {
     printf("Desafio Super Trunfo Países Amaral!\n");
     printf("Novo commit\n");
+  
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+  // Declaração Variáveis Primeira carta
+  char estado1;//armazenar a letra do estado
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
