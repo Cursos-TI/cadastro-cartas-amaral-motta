@@ -9,8 +9,9 @@ int main() {
     printf("Novo commit\n");
   
   // Área para definição das variáveis para armazenar as propriedades das cidades
-  // Declaração Variáveis Primeira carta
+  // DECLARAÇÃO DAS VARIÁVEIS PRIMEIRA CARTA
   char estado1;//armazenar a letra do estado
+  char codigo1[4];//array para armazenar o código da carta
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
