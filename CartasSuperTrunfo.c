@@ -16,6 +16,7 @@ int main() {
   int populacao1; //variável para armazenar a população
   float area1; //variável para armazenar área 
   float pib1; //variável para armazenar o PIB
+  int pontos1; //variável para armazenar pontos turísticos
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
