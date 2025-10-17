@@ -12,6 +12,7 @@ int main() {
   // DECLARAÇÃO DAS VARIÁVEIS PRIMEIRA CARTA
   char estado1;//armazenar a letra do estado
   char codigo1[4];//array para armazenar o código da carta
+  char cidade1[50];//array para armazenar nome da cidade
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
