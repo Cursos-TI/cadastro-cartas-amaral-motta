@@ -15,6 +15,7 @@ int main() {
   char cidade1[50]; //array para armazenar nome da cidade
   int populacao1; //variável para armazenar a população
   float area1; //variável para armazenar área 
+  float pib1; //variável para armazenar o PIB
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
